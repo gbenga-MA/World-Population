@@ -1,0 +1,241 @@
+Rank,Location,Population,% of World,Date
+0,World,8119000000.00,100%,01-Jul-24
+1,China,1409670000.00,17.30%,31-Dec-23
+2,India,1402737000.00,17.20%,01-Jul-24
+3,United States,340110988.00,4.20%,01-Jul-24
+4,Indonesia,282477584.00,3.50%,30-Jun-24
+5,Pakistan,241499431.00,3.00%,01-Mar-23
+6,Nigeria,223800000.00,2.70%,01-Jul-23
+7,Brazil,212583750.00,2.60%,01-Jul-24
+8,Bangladesh,169828911.00,2.10%,14-Jun-22
+9,Russia,146150789.00,1.80%,01-Jan-24
+10,Mexico,130154247.00,1.60%,30-Sep-24
+11,Japan,123740000.00,1.50%,01-Dec-24
+12,Philippines,114163719.00,1.40%,01-Jul-24
+13,Ethiopia,109499000.00,1.30%,01-Jul-24
+14,Democratic Republic of the Congo,109276000.00,1.30%,01-Jul-24
+15,Egypt,105914499.00,1.30%,01-Jan-24
+16,Vietnam,101300000.00,1.20%,01-Jul-24
+17,Iran,85961000.00,1.10%,20-Mar-24
+18,Turkey,85372377.00,1.00%,31-Dec-23
+19,Germany,84746132.00,1.00%,30-Sep-24
+20,France,68567000.00,0.80%,01-Dec-24
+21,United Kingdom,68265209.00,0.80%,01-Jul-23
+22,Thailand,65960724.00,0.80%,01-Nov-24
+23,South Africa,63015904.00,0.80%,30-Jul-24
+24,Tanzania,61741120.00,0.80%,23-Aug-22
+25,Italy,58958131.00,0.70%,31-Oct-24
+26,Colombia,52695952.00,0.60%,01-Jan-24
+27,Kenya,52428290.00,0.60%,01-Jan-24
+28,Myanmar,51316756.00,0.60%,15-Oct-24
+29,South Korea,51248233.00,0.60%,30-Sep-24
+30,Sudan,50448963.00,0.60%,01-Jul-24
+31,Spain,48946035.00,0.60%,01-Oct-24
+32,Argentina,47067441.00,0.60%,01-Jul-24
+33,Algeria,46700000.00,0.60%,01-Jan-24
+34,Uganda,45935046.00,0.60%,10-May-24
+35,Iraq,44414800.00,0.50%,01-Jul-24
+36,Canada,41465298.00,0.50%,01-Oct-24
+37,Poland,37519000.00,0.50%,31-Oct-24
+38,Uzbekistan,37355356.00,0.50%,01-Oct-24
+39,Morocco,36828330.00,0.50%,01-Sep-24
+40,Afghanistan,35695527.00,0.40%,01-Jul-24
+41,Angola,35121734.00,0.40%,01-Jun-24
+42,Malaysia,34112400.00,0.40%,30-Sep-24
+43,Peru,34038457.00,0.40%,01-Jul-24
+44,Ukraine,33443000.00,0.40%,01-Jan-24
+45,Mozambique,33244414.00,0.40%,01-Jul-24
+46,Ghana,33007618.00,0.40%,01-Jul-24
+47,Yemen,32305264.00,0.40%,01-Jul-22
+48,Saudi Arabia,32175224.00,0.40%,10-May-22
+49,Madagascar,30811969.00,0.40%,01-Jul-24
+50,Ivory Coast,29389150.00,0.40%,14-Dec-21
+51,Nepal,29164578.00,0.40%,25-Nov-21
+52,Cameroon,28758503.00,0.40%,01-Jul-24
+53,Venezuela,28405543.00,0.30%,01-Jul-24
+54,Australia,27204800.00,0.30%,30-Jun-24
+55,Niger,26312034.00,0.30%,01-Jul-24
+56,North Korea,25950000.00,0.30%,01-Jul-21
+57,Syria,24672760.00,0.30%,01-Jul-24
+58,Burkina Faso,23409015.00,0.30%,01-Jul-24
+–,Taiwan,23400220.00,0.30%,31-Dec-24
+59,Mali,22395489.00,0.30%,15-Jun-22
+60,Sri Lanka,21916000.00,0.30%,01-Jul-24
+61,Malawi,20270568.00,0.20%,01-Jul-24
+62,Kazakhstan,20265320.00,0.20%,01-Dec-24
+63,Chile,20086377.00,0.20%,30-Jun-24
+64,Zambia,19610769.00,0.20%,14-Sep-22
+65,Romania,19064409.00,0.20%,01-Jan-24
+66,Somalia,19009151.00,0.20%,01-Jul-24
+67,Chad,18675547.00,0.20%,01-Jul-24
+68,Senegal,18126390.00,0.20%,15-May-23
+69,Netherlands,18045683.00,0.20%,30-Nov-24
+70,Guatemala,17843132.00,0.20%,01-Jul-24
+71,Cambodia,17336307.00,0.20%,01-Jul-24
+72,Ecuador,16938986.00,0.20%,01-Oct-22
+73,Zimbabwe,16751469.00,0.20%,01-Jul-24
+74,South Sudan,15254268.00,0.20%,01-Jul-23
+75,Rwanda,13798561.00,0.20%,01-Jul-24
+76,Guinea,13261638.00,0.20%,01-Jul-22
+77,Benin,12910087.00,0.20%,01-Jul-24
+78,Burundi,12837740.00,0.20%,01-Jul-22
+79,Haiti,12394537.00,0.20%,01-Jul-24
+80,Tunisia,11887412.00,0.10%,01-Jan-24
+81,Belgium,11872024.00,0.10%,01-Nov-24
+82,Papua New Guinea,11781559.00,0.10%,01-Jul-21
+83,Jordan,11516000.00,0.10%,31-Dec-23
+84,Bolivia,11312620.00,0.10%,23-Mar-24
+85,Cuba,11089511.00,0.10%,31-Dec-22
+86,Czech Republic,10897237.00,0.10%,30-Sep-24
+87,Dominican Republic,10771504.00,0.10%,10-Nov-22
+88,United Arab Emirates,10678556.00,0.10%,31-Dec-23
+89,Portugal,10639726.00,0.10%,31-Dec-23
+90,Sweden,10588230.00,0.10%,30-Nov-24
+91,Greece,10400720.00,0.10%,01-Jan-24
+92,Tajikistan,10277100.00,0.10%,01-Jan-24
+93,Azerbaijan,10214441.00,0.10%,01-Oct-24
+94,Israel,10027000.00,0.10%,31-Dec-24
+95,Honduras,9892632.00,0.10%,01-Jul-24
+96,Hungary,9584627.00,0.10%,01-Jan-24
+97,Austria,9198124.00,0.10%,01-Oct-24
+98,Belarus,9155978.00,0.10%,01-Jan-24
+99,Switzerland,9027859.00,0.10%,30-Sep-24
+100,Sierra Leone,8884032.00,0.10%,01-Jul-24
+101,Togo,8095498.00,0.10%,08-Nov-22
+102,Laos,7546000.00,0.09%,01-Jul-23
+–,Hong Kong (China),7531800.00,0.09%,30-Jun-24
+103,Libya,7381023.00,0.09%,01-Jul-24
+104,Kyrgyzstan,7161900.00,0.09%,01-Jan-24
+105,Turkmenistan,7057841.00,0.09%,17-Dec-22
+106,Nicaragua,6803886.00,0.08%,30-Jun-23
+107,Serbia,6605168.00,0.08%,01-Jan-24
+108,Central African Republic,6470307.00,0.08%,01-Jul-24
+109,Bulgaria,6445481.00,0.08%,31-Dec-23
+110,El Salvador,6351000.00,0.08%,30-Jun-24
+111,Republic of the Congo,6142180.00,0.08%,17-May-23
+112,Paraguay,6109644.00,0.07%,10-Nov-22
+113,Singapore,6036900.00,0.07%,30-Jun-24
+114,Denmark,5989985.00,0.07%,01-Oct-24
+115,Finland,5636521.00,0.07%,30-Nov-24
+116,Norway,5585044.00,0.07%,30-Sep-24
+117,Lebanon,5490000.00,0.07%,01-Jul-21
+118,Palestine,5483450.00,0.07%,01-Jan-23
+119,Slovakia,5421272.00,0.07%,30-Sep-24
+120,Ireland,5380300.00,0.07%,01-Apr-24
+121,New Zealand,5348600.00,0.07%,30-Sep-24
+122,Costa Rica,5309625.00,0.07%,30-Jun-24
+125,Oman,5259612.00,0.06%,30-Nov-24
+124,Liberia,5248621.00,0.06%,10-Nov-22
+125,Mauritania,4927532.00,0.06%,25-Dec-23
+126,Kuwait,4913271.00,0.06%,01-Jan-24
+127,Panama,4064780.00,0.05%,08-Jan-23
+128,Croatia,3859686.00,0.05%,01-Jul-23
+129,Georgia,3694600.00,0.05%,01-Jan-24
+130,Eritrea,3535603.00,0.04%,01-Jul-24
+131,Mongolia,3504741.00,0.04%,31-Dec-23
+132,Uruguay,3444263.00,0.04%,27-Nov-23
+133,Bosnia and Herzegovina,3264873.00,0.04%,01-Jul-23
+–,Puerto Rico (US),3203295.00,0.04%,01-Jul-24
+134,Armenia,3067400.00,0.04%,01-Jan-24
+135,Namibia,3022401.00,0.04%,24-Sep-23
+136,Lithuania,2897430.00,0.04%,01-Jan-25
+137,Qatar,2857822.00,0.04%,30-Jun-24
+138,Jamaica,2825544.00,0.03%,01-Jul-19
+139,Moldova,2423300.00,0.03%,01-Jan-24
+140,Gambia,2417471.00,0.03%,01-Jul-22
+141,Botswana,2410338.00,0.03%,01-Jul-21
+142,Gabon,2408586.00,0.03%,01-Jul-24
+143,Albania,2402113.00,0.03%,18-Sep-23
+144,Lesotho,2306000.00,0.03%,01-Jul-23
+145,Slovenia,2126324.00,0.03%,01-Jul-24
+146,Latvia,1854900.00,0.02%,01-Nov-24
+147,North Macedonia,1826247.00,0.02%,31-Dec-23
+148,Guinea-Bissau,1781308.00,0.02%,01-Jul-23
+149,Bahrain,1588670.00,0.02%,01-Jul-24
+–,Kosovo,1585566.00,0.02%,04-Apr-24
+150,Equatorial Guinea,1558160.00,0.02%,01-Jul-22
+151,Estonia,1374687.00,0.02%,01-Jan-24
+152,East Timor,1373024.00,0.02%,01-Jul-24
+153,Trinidad and Tobago,1368333.00,0.02%,30-Jun-24
+154,Mauritius,1259509.00,0.02%,01-Jul-24
+155,Eswatini,1235549.00,0.02%,01-Jul-24
+156,Djibouti,1066809.00,0.01%,20-May-24
+157,Cyprus,918100.00,0.01%,01-Oct-21
+158,Fiji,900869.00,0.01%,01-Jan-25
+159,Comoros,900141.00,0.01%,2024
+160,Bhutan,777224.00,0.01%,2024
+161,Guyana,772975.00,0.01%,01-Jul-21
+162,Solomon Islands,750325.00,0.01%,01-Jul-24
+–,Macau (China),686600.00,0.01%,30-Sep-24
+163,Luxembourg,672050.00,0.01%,01-Jan-24
+164,Montenegro,623633.00,0.01%,31-Oct-23
+165,Suriname,616500.00,0.01%,01-Jul-21
+–,Western Sahara,590506.00,0.01%,01-Jul-24
+166,Malta,542051.00,0.01%,31-Dec-22
+167,Maldives,515132.00,0.01%,13-Sep-22
+168,Cape Verde,491233.00,0.01%,16-Jun-21
+–,Northern Cyprus,476214.00,0.01%,31-Dec-23
+169,Brunei,450500.00,0.01%,01-Jul-23
+170,Belize,410919.00,0.01%,01-Jul-24
+171,Bahamas,398165.00,0.01%,04-Apr-22
+172,Iceland,388790.00,0.01%,01-Oct-24
+–,Transnistria,360938.00,0.00%,31-Dec-22
+173,Vanuatu,321409.00,0.00%,01-Jul-24
+–,French Polynesia (France),279890.00,0.00%,01-Jul-21
+–,New Caledonia (France),268510.00,0.00%,01-Jan-23
+174,Barbados,267800.00,0.00%,31-Dec-22
+–,Abkhazia,244236.00,0.00%,01-Jan-22
+175,São Tomé and Príncipe,228319.00,0.00%,01-Jul-24
+176,Samoa,205557.00,0.00%,06-Nov-21
+177,Saint Lucia,184100.00,0.00%,01-Jul-23
+–,Curaçao (Netherlands),155826.00,0.00%,02-Sep-23
+–,Guam (US),153836.00,0.00%,01-Apr-20
+178,Seychelles,121355.00,0.00%,30-Jun-24
+179,Kiribati,120740.00,0.00%,01-Jul-21
+180,Grenada,112579.00,0.00%,01-Jul-19
+181,Saint Vincent and the Grenadines,110872.00,0.00%,01-Jul-22
+–,Aruba (Netherlands),107566.00,0.00%,31-Dec-23
+182,Micronesia,105754.00,0.00%,01-Jul-21
+183,Antigua and Barbuda,103603.00,0.00%,01-Jan-24
+–,Jersey (UK),103267.00,0.00%,21-Mar-21
+184,Tonga,100179.00,0.00%,01-Jan-22
+–,U.S. Virgin Islands (US),87146.00,0.00%,01-Apr-20
+185,Andorra,86931.00,0.00%,30-Nov-24
+–,Cayman Islands (UK),84738.00,0.00%,31-Dec-23
+–,Isle of Man (UK),84530.00,0.00%,01-Apr-23
+186,Dominica,67408.00,0.00%,31-Dec-17
+–,Guernsey (UK),64781.00,0.00%,31-Dec-23
+–,Bermuda (UK),64055.00,0.00%,01-Jul-21
+–,Greenland (Denmark),56865.00,0.00%,01-Jul-23
+–,South Ossetia,56520.00,0.00%,31-Dec-21
+–,Faroe Islands (Denmark),54675.00,0.00%,01-Dec-24
+187,Saint Kitts and Nevis,51320.00,0.00%,2022
+–,American Samoa (US),49710.00,0.00%,01-Apr-20
+–,Turks and Caicos Islands (UK),49309.00,0.00%,01-Jul-23
+–,Northern Mariana Islands (US),47329.00,0.00%,01-Apr-20
+188,Marshall Islands,42418.00,0.00%,30-Sep-21
+–,Sint Maarten (Netherlands),41349.00,0.00%,01-Jan-24
+189,Liechtenstein,40232.00,0.00%,30-Jun-24
+190,Monaco,38367.00,0.00%,31-Dec-23
+–,Gibraltar (UK),38000.00,0.00%,14-Nov-22
+191,San Marino,33987.00,0.00%,31-Oct-24
+–,Saint Martin (France),32358.00,0.00%,01-Jan-20
+–,British Virgin Islands (UK),31538.00,0.00%,01-Jul-23
+192,Palau,16733.00,0.00%,01-Jul-21
+–,Anguilla (UK),15931.00,0.00%,31-Dec-23
+–,Cook Islands,15040.00,0.00%,01-Jul-21
+193,Nauru,11680.00,0.00%,30-Oct-21
+–,Wallis and Futuna (France),11620.00,0.00%,24-Jul-23
+194,Tuvalu,10679.00,0.00%,01-Jul-21
+–,Saint Barthélemy (France),10585.00,0.00%,01-Jan-20
+–,Saint Pierre and Miquelon (France),6092.00,0%,01-Jan-20
+–,"Saint Helena, Ascension and Tristan da Cunha (UK)",5651.00,0%,01-Jul-21
+–,Montserrat (UK),4386.00,0%,23-Sep-23
+–,Falkland Islands (UK),3662.00,0%,10-Oct-21
+–,Norfolk Island (Australia),2188.00,0%,01-Jan-21
+–,Christmas Island (Australia),1692.00,0%,01-Jan-21
+–,Niue (New Zealand),1681.00,0%,11-Nov-22
+–,Tokelau (New Zealand),1647.00,0%,01-Jan-19
+195,Vatican City,764.00,0%,26-Jun-23
+–,Cocos (Keeling) Islands (Australia),593.00,0%,30-Jun-20
+–,Pitcairn Islands (UK),35.00,0%,01-Jul-23
